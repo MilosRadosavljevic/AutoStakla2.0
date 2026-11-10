@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+build/
+dist/
+release/
+dev_root/
+*.db
+*.log
+pocetno_stanje/*.xlsx
+dokumentacija/*.docx
+dokumentacija/*.pdf
+dokumentacija/*.pptx
+demo_root/

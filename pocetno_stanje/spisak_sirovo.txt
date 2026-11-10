@@ -1,0 +1,51 @@
+# Demo početno stanje – izmišljeni podaci za javnu verziju (pravi spisak se ne objavljuje)
+#
+# Format:
+#   = Naziv skladišta | opis            -> novo skladište
+#   - Naziv police | opis               -> nova polica (horizontalna linija / deo)
+#   12. tekst stakla 2x // napomena ## komentar za proveru
+#   2a. ...  -> ubačeno posle 2 (dobija sopstveni broj)
+#
+# Brojevi su kao na papiru; alat ih prenumeriše tako da u svakom skladištu idu
+# neprekidno 1, 2, 3... preko svih polica (redovi sa istim brojem jedan za drugim dele broj).
+#
+# Količina: "2x"/"3X" na kraju, bez oznake = 1.
+# "// ..." ide u napomenu stavke; "## ..." je samo za proveru (ne uvozi se).
+# Rukom dopisano / precrtano na papiru je označeno sa ## RUKOM.
+
+= 1 Stalak
+- Polica 1
+1. Fiat Ducato - Citroen Jumper - Peugeot Boxer 06- 2x
+2. VW Golf 5 i 6 SENZOR 2x
+3. VW Golf 5 i 6
+4. VW Golf 7 13-17 SENZOR
+- Polica 2
+5. VW Touran 03-10 BEZ PLOČICE
+6. VW Touran 03-10 PLOČICA
+7. Ford Focus 2 04-11 SENZOR 2x
+8. Ford Focus 3 11-18
+= 2 Stalak
+- Polica 1
+1. Opel Astra H 04-09 2x
+2. Opel Astra J 09-15 SENZOR
+3. Renault Megane 3 08-16
+4. Renault Clio 4 12-19
+- Polica 2
+5. Skoda Octavia 2 04-13 SENZOR
+6. Skoda Octavia 3 13-20 KAMERA
+7. Peugeot 308 07-13
+= Dvorište | pored garaže
+- I deo
+1. Mercedes Sprinter kombi 06-18 2x
+2. Iveco Daily 06-14
+3. Renault Master - Opel Movano 10-
+- II deo
+4. Toyota Yaris 05-11
+5. Toyota Corolla 07-13 POLOVNO
+6. Hyundai i30 07-12
+= Garaža
+- Polica 1
+1. BMW 3 E90 05-12 SENZOR
+2. Audi A4 B8 08-15 SENZOR
+3. Audi A3 8P 03-12
+4. Fiat Punto Evo 09-12 ZADNJA
