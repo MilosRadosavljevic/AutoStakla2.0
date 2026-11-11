@@ -66,3 +66,7 @@ powershell -ExecutionPolicy Bypass -File tools\probaj_better.ps1     # demo baza
 
 Izdanje (osnovno / Better) bira `EDITION` u `src\autostakla\version.py`. Arhitektura, migracije, update i backup:
 [ARHITEKTURA.md](ARHITEKTURA.md); izmene po verzijama: [IZMENE.md](IZMENE.md).
+
+## License
+
+© 2026 Miloš Radosavljević. **All rights reserved.** The code is public only so it can be viewed and evaluated; no use, copying, modification or distribution is permitted without written permission. See [LICENSE](LICENSE) and [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md).
